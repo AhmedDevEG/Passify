@@ -71,7 +71,7 @@ Your contributions are highly welcome! To add a new language:
 
 ## 🚀 Upcoming Features (Planned)
 - Auto-Lock after inactivity.
-- Windows Hello integration (Fingerprint/Face unlock).
+- Windows Hello integration.
 - Automatic clearing of the clipboard.
 - Automated daily backups.
 - ***More is Coming***........😊
