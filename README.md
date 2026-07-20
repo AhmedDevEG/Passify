@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b8c403ef-90fd-47e8-ab0f-0925e00fe209" alt="Passify" width="160" align="center">
 </h1>
 
-            **Passify - Save on the fly!**
+**Passify - Save on the fly!**
 
 *(احفظ كلمات مرورك في لمح البصر)*
 
