@@ -1,5 +1,7 @@
-<img width="512" height="512" alt="Passify" src="https://github.com/user-attachments/assets/b8c403ef-90fd-47e8-ab0f-0925e00fe209" />
-
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/b8c403ef-90fd-47e8-ab0f-0925e00fe209" alt="Passify" width="40" align="center">
+  Passify - Save on the fly!
+</h1>
 
 **Passify - Save on the fly!**
 
