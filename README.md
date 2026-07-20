@@ -78,7 +78,7 @@ Your contributions are highly welcome! To add a new language:
 
 ## 💻 System Requirements & Prerequisites
 To run Passify, please ensure you have the following installed:
-- **OS:** Windows 10 (Version 1809, Build 17763) or Windows 11.
+- **OS:** Windows 10 or Windows 11.
 - **.NET 10 Desktop Runtime:** [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 - **Windows App SDK (v1.8):** [Download Windows App SDK Runtime](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/release-notes/windows-app-sdk-1-8?pivots=stable#version-1810-18260710003)
 
