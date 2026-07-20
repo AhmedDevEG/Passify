@@ -18,7 +18,7 @@ Passify is a modern, offline-first password manager built with Windows App SDK (
 > **🤖 AI-Developed & Privacy:**
 >  Passify was entirely developed by AI, from the first line of code to the last. But don't let "built by AI" make you second-guess your privacy: AI was only involved in writing the app itself, never in handling your data. Everything you store stays encrypted on your device, with no tracking, no collection, and no cloud involved.
 
-## ✨ Current Features (v0.1 Beta)
+## ✨ Current Features
 - **100% Offline & Local:** Your passwords are encrypted and stored locally on your device using SQLite.
 - **Beautiful UI:** Modern WinUI 3 interface with Mica backdrop support, fluid animations.
 - **Password Generator:** Simple but powerful.
