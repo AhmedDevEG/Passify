@@ -82,6 +82,11 @@ To run Passify, please ensure you have the following installed:
 - **.NET 10 Desktop Runtime:** [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 - **Windows App SDK (v1.8):** [Download Windows App SDK Runtime](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/release-notes/windows-app-sdk-1-8?pivots=stable#version-1810-18260710003)
 
+## 📥 Installation
+1. Download the app from the [latest release](https://github.com/AhmedDevEG/Passify/releases/tag/v0.1-beta).
+2. Extract the ZIP file.
+3. That's it — you're ready to go! 🎉
+
 ## 🛠️ Support & Feedback
 Encountered a bug, need help, or have a suggestion? 
 - **GitHub Issues:** Feel free to open an issue directly in this repository.
