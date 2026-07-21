@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+
+  <!-- App -->
+  <data name="AppTitle" xml:space="preserve"><value>Passify</value></data>
+
+  <!-- Navigation -->
+  <data name="NavPasswords" xml:space="preserve"><value>Passwords</value></data>
+  <data name="NavRecoveryCodes" xml:space="preserve"><value>Recovery Codes</value></data>
+  <data name="NavGenerator" xml:space="preserve"><value>Generator</value></data>
+  <data name="NavSettings" xml:space="preserve"><value>Settings</value></data>
+
+  <!-- Passwords Page -->
+  <data name="SearchPasswords" xml:space="preserve"><value>Search passwords...</value></data>
+  <data name="TotalPasswords" xml:space="preserve"><value>Total Passwords</value></data>
+  <data name="AddNew" xml:space="preserve"><value>Add New</value></data>
+  <data name="SelectPassword" xml:space="preserve"><value>Select a password</value></data>
+  <data name="SelectPasswordHint" xml:space="preserve"><value>Choose an item from the list to view details</value></data>
+  <data name="Username" xml:space="preserve"><value>Username</value></data>
+  <data name="Password" xml:space="preserve"><value>Password</value></data>
+  <data name="Url" xml:space="preserve"><value>URL</value></data>
+  <data name="Notes" xml:space="preserve"><value>Notes</value></data>
+  <data name="ClickToCopy" xml:space="preserve"><value>Click to copy</value></data>
+  <data name="Edit" xml:space="preserve"><value>Edit</value></data>
+  <data name="Delete" xml:space="preserve"><value>Delete</value></data>
+  <data name="NoPasswordsSaved" xml:space="preserve"><value>No passwords saved</value></data>
+  <data name="StartAddingPassword" xml:space="preserve"><value>Start by adding a new password</value></data>
+  <data name="NoUsername" xml:space="preserve"><value>No username</value></data>
+  <data name="PasswordsCount" xml:space="preserve"><value>{0} Passwords</value></data>
+
+  <!-- Recovery Codes Page -->
+  <data name="SearchRecoveryCodes" xml:space="preserve"><value>Search recovery codes...</value></data>
+  <data name="TotalEntries" xml:space="preserve"><value>Total Entries</value></data>
+  <data name="AddRecoveryCodes" xml:space="preserve"><value>Add Recovery Codes</value></data>
+  <data name="SelectPlatform" xml:space="preserve"><value>Select a platform</value></data>
+  <data name="SelectPlatformHint" xml:space="preserve"><value>Choose an item from the list to view recovery codes</value></data>
+  <data name="RecoveryCodes" xml:space="preserve"><value>Recovery Codes</value></data>
+  <data name="NoRecoveryCodesSaved" xml:space="preserve"><value>No recovery codes saved</value></data>
+  <data name="StartAdding2FA" xml:space="preserve"><value>Start by adding your 2FA recovery codes</value></data>
+  <data name="PlatformsCount" xml:space="preserve"><value>{0} Platforms</value></data>
+  <data name="RemainingCount" xml:space="preserve"><value>{0} / {1} remaining</value></data>
+  <data name="Used" xml:space="preserve"><value>Used</value></data>
+  <data name="Active" xml:space="preserve"><value>Active</value></data>
+
+  <!-- Generator Page -->
+  <data name="ClickGenerate" xml:space="preserve"><value>Click Generate</value></data>
+  <data name="Copy" xml:space="preserve"><value>Copy</value></data>
+  <data name="GeneratorOptions" xml:space="preserve"><value>Generator Options</value></data>
+  <data name="PasswordLength" xml:space="preserve"><value>Password Length</value></data>
+  <data name="Uppercase" xml:space="preserve"><value>Uppercase</value></data>
+  <data name="UppercaseHint" xml:space="preserve"><value>Include uppercase letters (A-Z)</value></data>
+  <data name="Lowercase" xml:space="preserve"><value>Lowercase</value></data>
+  <data name="LowercaseHint" xml:space="preserve"><value>Include lowercase letters (a-z)</value></data>
+  <data name="Numbers" xml:space="preserve"><value>Numbers</value></data>
+  <data name="NumbersHint" xml:space="preserve"><value>Include numbers (0-9)</value></data>
+  <data name="SpecialCharacters" xml:space="preserve"><value>Special Characters</value></data>
+  <data name="SpecialCharactersHint" xml:space="preserve"><value>Include symbols (!@#$%^&amp;*)</value></data>
+  <data name="GenerateNewPassword" xml:space="preserve"><value>Generate New Password</value></data>
+  <data name="SelectAtLeastOneOption" xml:space="preserve"><value>Please select at least one option</value></data>
+
+  <!-- Settings Page -->
+  <data name="Appearance" xml:space="preserve"><value>Appearance</value></data>
+  <data name="AppTheme" xml:space="preserve"><value>App Theme</value></data>
+  <data name="SelectTheme" xml:space="preserve"><value>Select which app theme to display</value></data>
+  <data name="SystemDefault" xml:space="preserve"><value>System Default</value></data>
+  <data name="Light" xml:space="preserve"><value>Light</value></data>
+  <data name="Dark" xml:space="preserve"><value>Dark</value></data>
+  <data name="ThemeAuto" xml:space="preserve"><value>Switches automatically</value></data>
+  <data name="PlannedBadge" xml:space="preserve"><value>Planned</value></data>
+  <data name="Language" xml:space="preserve"><value>Language</value></data>
+  <data name="SelectLanguage" xml:space="preserve"><value>Select your preferred language</value></data>
+  <data name="Security" xml:space="preserve"><value>Security</value></data>
+  <data name="AutoLock" xml:space="preserve"><value>Auto Lock</value></data>
+  <data name="AutoLockHint" xml:space="preserve"><value>Lock app after 5 minutes of inactivity</value></data>
+  <data name="WindowsHello" xml:space="preserve"><value>Windows Hello</value></data>
+  <data name="WindowsHelloHint" xml:space="preserve"><value>Use fingerprint or face recognition</value></data>
+  <data name="ClearClipboard" xml:space="preserve"><value>Clear Clipboard</value></data>
+  <data name="ClearClipboardHint" xml:space="preserve"><value>Clear clipboard after 30 seconds</value></data>
+  <data name="Data" xml:space="preserve"><value>Data</value></data>
+  <data name="AutoBackup" xml:space="preserve"><value>Automatic Backup</value></data>
+  <data name="AutoBackupHint" xml:space="preserve"><value>Auto backup daily</value></data>
+  <data name="ManageData" xml:space="preserve"><value>Manage Data</value></data>
+  <data name="ManageDataHint" xml:space="preserve"><value>Import or export your passwords</value></data>
+  <data name="Export" xml:space="preserve"><value>Export</value></data>
+  <data name="Import" xml:space="preserve"><value>Import</value></data>
+  <data name="About" xml:space="preserve"><value>About</value></data>
+  <data name="Version" xml:space="preserve"><value>Version 0.1</value></data>
+  <data name="UnderDevelopmentBadge" xml:space="preserve"><value>Under Development</value></data>
+  <data name="Copyright" xml:space="preserve"><value>@ 2026 Ahmed Elhadidy</value></data>
+  <data name="CheckForUpdates" xml:space="preserve"><value>Check for Updates</value></data>
+  <data name="ExportSuccessful" xml:space="preserve"><value>Export Successful</value></data>
+  <data name="ExportFailed" xml:space="preserve"><value>Export Failed</value></data>
+  <data name="PasswordsSavedTo" xml:space="preserve"><value>Passwords saved to {0}</value></data>
+  <data name="SomethingWentWrong" xml:space="preserve"><value>Something went wrong.</value></data>
+  <data name="ImportSuccessful" xml:space="preserve"><value>Import Successful</value></data>
+  <data name="ImportFailed" xml:space="preserve"><value>Import Failed</value></data>
+  <data name="ImportSuccessMessage" xml:space="preserve"><value>{0} passwords and {1} recovery code entries restored.</value></data>
+  <data name="CouldNotReadBackup" xml:space="preserve"><value>Could not read the backup file.</value></data>
+  <data name="OK" xml:space="preserve"><value>OK</value></data>
+  <data name="RestartRequired" xml:space="preserve"><value>Please restart the app to apply the new language fully.</value></data>
+
+  <!-- Add Password Dialog -->
+  <data name="AddNewPassword" xml:space="preserve"><value>Add New Password</value></data>
+  <data name="EditPassword" xml:space="preserve"><value>Edit Password</value></data>
+  <data name="Save" xml:space="preserve"><value>Save</value></data>
+  <data name="Update" xml:space="preserve"><value>Update</value></data>
+  <data name="Cancel" xml:space="preserve"><value>Cancel</value></data>
+  <data name="Title" xml:space="preserve"><value>Title</value></data>
+  <data name="EnterPassword" xml:space="preserve"><value>Enter password</value></data>
+  <data name="WebsiteUrl" xml:space="preserve"><value>Website URL</value></data>
+  <data name="Icon" xml:space="preserve"><value>Icon</value></data>
+  <data name="AdditionalNotes" xml:space="preserve"><value>Additional notes...</value></data>
+  <data name="TitleRequired" xml:space="preserve"><value>Title is required!</value></data>
+  <data name="PasswordRequired" xml:space="preserve"><value>Password is required!</value></data>
+
+  <!-- Add Recovery Code Dialog -->
+  <data name="AddRecoveryCodesTitle" xml:space="preserve"><value>Add Recovery Codes</value></data>
+  <data name="EditRecoveryCodes" xml:space="preserve"><value>Edit Recovery Codes</value></data>
+  <data name="PlatformNamePlaceholder" xml:space="preserve"><value>Platform name (e.g. Google)</value></data>
+  <data name="EnterCodesHint" xml:space="preserve"><value>Enter each code on a separate line</value></data>
+  <data name="ChooseCustomIcon" xml:space="preserve"><value>Choose a custom icon</value></data>
+  <data name="PlatformRequired" xml:space="preserve"><value>Platform name is required!</value></data>
+  <data name="CodeRequired" xml:space="preserve"><value>At least one code is required!</value></data>
+
+  <!-- Delete Confirm Dialog -->
+  <data name="DeletePassword" xml:space="preserve"><value>Delete</value></data>
+  <data name="DeleteConfirmMessage" xml:space="preserve"><value>Are you sure you want to delete '{0}'?</value></data>
+
+  <!-- Passify File -->
+  <data name="PassifyFile" xml:space="preserve"><value>Passify Vault</value></data>
+
+  <!-- Vault Setup -->
+  <data name="WelcomeTitle" xml:space="preserve"><value>Welcome to Passify</value></data>
+  <data name="WelcomeSubtitle" xml:space="preserve"><value>Your passwords are stored in a Vault — a folder you control. Create a new vault or import an existing one to get started.</value></data>
+  <data name="CreateNewVault" xml:space="preserve"><value>Create New Vault</value></data>
+  <data name="CreateNewVaultHint" xml:space="preserve"><value>Choose a folder to store your passwords and icons</value></data>
+  <data name="ImportVault" xml:space="preserve"><value>Import Existing Vault</value></data>
+  <data name="ImportVaultHint" xml:space="preserve"><value>Open a .passify backup file and restore your data</value></data>
+  <data name="LegacyDataFound" xml:space="preserve"><value>Previous Data Found</value></data>
+  <data name="LegacyDataFoundHint" xml:space="preserve"><value>We found data from a previous version of Passify. Create a vault first, and your data will be automatically migrated.</value></data>
+  <data name="MigrateNow" xml:space="preserve"><value>Migrate Data</value></data>
+  <data name="CreateVaultFirst" xml:space="preserve"><value>Please create or import a vault first. Your legacy data will be migrated automatically when you create a new vault.</value></data>
+  <data name="VaultFolderName" xml:space="preserve"><value>Vault Name</value></data>
+  <data name="VaultFolderNamePlaceholder" xml:space="preserve"><value>e.g. MyPassify</value></data>
+  <data name="Create" xml:space="preserve"><value>Create</value></data>
+  <data name="CouldNotCreateVault" xml:space="preserve"><value>Could not create the vault in the selected folder. Please try a different location.</value></data>
+  <data name="CouldNotImportVault" xml:space="preserve"><value>Could not import the vault. The file may be corrupted.</value></data>
+  <data name="WrongPasswordOrCorrupt" xml:space="preserve"><value>Wrong password or the file is corrupted.</value></data>
+  <data name="VaultIsEncrypted" xml:space="preserve"><value>Encrypted Vault</value></data>
+  <data name="EnterVaultPassword" xml:space="preserve"><value>Enter vault password...</value></data>
+  <data name="Error" xml:space="preserve"><value>Error</value></data>
+
+  <!-- Settings — Vault -->
+  <data name="VaultLocation" xml:space="preserve"><value>Vault Location</value></data>
+  <data name="NoVaultConfigured" xml:space="preserve"><value>No vault configured</value></data>
+  <data name="ChangeVault" xml:space="preserve"><value>Move Vault</value></data>
+  <data name="VaultMoved" xml:space="preserve"><value>Vault Moved</value></data>
+  <data name="VaultMovedHint" xml:space="preserve"><value>Your vault has been successfully moved to the new location.</value></data>
+  <data name="CouldNotMoveVault" xml:space="preserve"><value>Could not move the vault. Ensure you have permissions and the destination is valid.</value></data>
+  <data name="CouldNotOpenVault" xml:space="preserve"><value>Could not open the selected folder as a vault.</value></data>
+  <data name="VaultSavedTo" xml:space="preserve"><value>Vault exported to {0}</value></data>
+  <data name="VaultImportedSuccessfully" xml:space="preserve"><value>Vault imported successfully. Your passwords and icons are now available.</value></data>
+  <data name="ExportOptions" xml:space="preserve"><value>Export Options</value></data>
+  <data name="NoDataToExport" xml:space="preserve"><value>There is no data to export. The vault is empty.</value></data>
+  <data name="EncryptExport" xml:space="preserve"><value>Encrypt the export with a password</value></data>
+  <data name="Continue" xml:space="preserve"><value>Continue</value></data>
+  <data name="SetVaultPassword" xml:space="preserve"><value>Set Export Password</value></data>
+</root>
