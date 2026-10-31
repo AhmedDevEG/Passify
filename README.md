@@ -18,6 +18,12 @@ Passify is a modern, offline-first and all-in-one password manager built with Wi
 > **Privacy:**
 > Don't worry about the privacy everything you store stays encrypted on your device, with no tracking, no collection, and no cloud involved.
 
+## 💎 Pricing
+
+Passify is currently free to use. However, I may introduce paid versions, premium features as the project evolves.
+
+No pricing decisions have been finalized yet.
+
 ## ✨ Current Features
 - **100% Offline & Local:** Your passwords are encrypted and stored locally on your device using SQLite.
 - **Beautiful UI:** Modern WinUI 3 interface with Mica backdrop support, fluid animations.
@@ -74,8 +80,8 @@ Your contributions are highly welcome! To add a new language:
 - [x] Recovery codes.
 - [ ] 2FA support:
   - [ ] TOTP.
-  - [ ] HOTP
-  - [ ] Import from third-party program like (Google-Bitwarden...etc).
+  - [ ] HOTP.
+  - [ ] Import from third-party program like (Google/Bitwarden...etc).
   - [ ] Import from a URI list (basic).
 - [ ] Browser extension.
 - [ ] Passkeys support.
