@@ -1,9 +1,22 @@
-MIT License
+Copyright (c) 2026 AhmedDevEG. All rights reserved.
 
-Copyright (c) [2025] [Ahmed Dev]
+# Proprietary License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Passify is proprietary software. All rights reserved.
 
-- The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+You may download, install, and use the publicly distributed versions of Passify for personal purposes, subject to the terms below.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+You may NOT:
+
+- Copy, modify, adapt, or redistribute the source code.
+- Reverse engineer, decompile, or disassemble the software, except where applicable law permits.
+- Repackage, resell, sublicense, or commercially redistribute the software without prior written permission.
+- Remove copyright notices or proprietary markings.
+
+No ownership rights or intellectual property rights are transferred to users through the use or download of Passify.
+
+The author reserves all rights to modify, distribute, commercialize, introduce paid features, or change the pricing and licensing model of Passify in the future.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
+
+For permissions or licensing inquiries, contact the project owner through the official GitHub repository.
