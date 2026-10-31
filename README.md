@@ -73,10 +73,10 @@ Your contributions are highly welcome! To add a new language:
 
 - [x] Recovery codes.
 - [ ] 2FA support:
-  - [ ] Import from Google Authenticator.
-  - [ ] Import from Bitwarden.
-  - [ ] Import from Proton Pass.
-  - [ ] Import from a URI list.
+  - [ ] TOTP.
+  - [ ] HOTP
+  - [ ] Import from third-party program like (Google-Bitwarden...etc).
+  - [ ] Import from a URI list (basic).
 - [ ] Browser extension.
 - [ ] Passkeys support.
 - [ ] Auto-Lock after inactivity.
