@@ -69,12 +69,18 @@ Your contributions are highly welcome! To add a new language:
 3. Open a **New Issue** in this repository with the title `Translation: [Your Language]` and attach your translated file.
 4. Alternatively, you can send the translated file directly via our Telegram channel.
 
-## 🚀 Upcoming Features (Planned)
+## 🚀 Roadmap
+- Browser extension.
+- 2FA support:
+  - Import from Google Authenticator.
+  - Import from Bitwarden.
+  - Import from Proton Pass.
+  - Import from a URI list.
+- Passkeys support.
 - Auto-Lock after inactivity.
 - Windows Hello integration.
 - Automatic clearing of the clipboard.
 - Automated daily backups.
-- ***More is Coming***........😊
 
 ## 💻 System Requirements & Prerequisites
 To run Passify, please ensure you have the following installed:
