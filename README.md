@@ -70,17 +70,13 @@ Your contributions are highly welcome! To add a new language:
 4. Alternatively, you can send the translated file directly via our Telegram channel.
 
 ## 🚀 Roadmap
-### ✅ Completed
-- [x] Recovery codes.
 
-### 🚧 In Progress
+- [x] Recovery codes.
 - [ ] 2FA support:
   - [ ] Import from Google Authenticator.
   - [ ] Import from Bitwarden.
   - [ ] Import from Proton Pass.
   - [ ] Import from a URI list.
-
-### 📌 Planned
 - [ ] Browser extension.
 - [ ] Passkeys support.
 - [ ] Auto-Lock after inactivity.
